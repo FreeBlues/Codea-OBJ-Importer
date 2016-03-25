@@ -2,8 +2,8 @@
 
 #### Tank
 
-http://www.blendswap.com/blends/view/76380
-Licence: CC Zero
+http://www.blendswap.com/blends/view/76380    
+Licence: CC Zero    
 Model by TotteAndersonn
 
 #### Island lp
@@ -33,12 +33,12 @@ Model by PixelOz
 
 #### Stormtrooper Helmet
 
-http: http://www.blendswap.com/blends/view/77957
+http://www.blendswap.com/blends/view/77957
 Licence: CC-BY 
 Model by matpiet, mofx
 
 #### Tie Fighter
 
-http: http://www.blendswap.com/blends/view/80537
+http://www.blendswap.com/blends/view/80537
 Licence: CC Zero
 Model by Daniel 74
