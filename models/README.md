@@ -27,18 +27,18 @@ Model by InfameDavid
 
 #### XWing
 
-http://www.blendswap.com/blends/view/50244
-Licence: CC BY
+http://www.blendswap.com/blends/view/50244    
+Licence: CC BY    
 Model by PixelOz
 
 #### Stormtrooper Helmet
 
-http://www.blendswap.com/blends/view/77957
-Licence: CC-BY 
+http://www.blendswap.com/blends/view/77957    
+Licence: CC-BY    
 Model by matpiet, mofx
 
 #### Tie Fighter
 
-http://www.blendswap.com/blends/view/80537
-Licence: CC Zero
+http://www.blendswap.com/blends/view/80537    
+Licence: CC Zero    
 Model by Daniel 74
