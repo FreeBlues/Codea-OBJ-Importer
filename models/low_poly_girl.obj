@@ -1,6 +1,6 @@
-# Blender v2.73 (sub 0) OBJ File: 'low poly girl.blend'
+# Blender v2.73 (sub 0) OBJ File: 'low_poly_girl.blend'
 # www.blender.org
-mtllib low poly girl.mtl
+mtllib low_poly_girl.mtl
 o Cube.008
 v -0.368817 -1.395156 -2.905113
 v -1.515091 -0.825235 -3.928453
