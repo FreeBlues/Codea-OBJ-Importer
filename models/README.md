@@ -42,3 +42,9 @@ Model by matpiet, mofx
 http://www.blendswap.com/blends/view/80537    
 Licence: CC Zero    
 Model by Daniel 74
+
+####  Green Crystal
+
+http://www.blendswap.com/blends/view/83731    
+Licence: CC-BY  
+Model by  Jarmynt
